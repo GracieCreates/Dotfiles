@@ -1,0 +1,21 @@
+/*****----- Global Properties -----*****/
+
+/*****----- Green Gold -----*****/
+
+/*****----- Global Properties -----*****/
+* {
+    font:                        "JetBrains Mono 12";
+    background:                  #11414f;
+    background-alt:              #2a2d1e;
+    foreground:                  #FFFFFF;
+    selected:                    #a78356;
+    active:                      #d6ebf0;
+    urgent:                      #7D0075;
+}
+
+/*****----- Green Gold Image -----*****/
+
+url("~/.config/rofi/images/green-gold.png", width);
+
+
+/*****--------------------------------*****/
